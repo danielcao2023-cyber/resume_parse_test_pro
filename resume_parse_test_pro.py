@@ -20,7 +20,7 @@ from datetime import datetime
 # 1) 这里改成你自己的配置
 # =========================================
 
-GEMINI_API_KEY = "AIzaSyDi5hmlT0ebgk-J3kwh5yoU3D9dC-VKyls"
+GEMINI_API_KEY = "YOUR_API_KEY"
 INPUT_FOLDER = "/Users/caogong/Desktop/ai-test/resume_parse_test_pro/resume_input"
 OUTPUT_FOLDER = "/Users/caogong/Desktop/ai-test/resume_parse_test_pro/resume_output"
 MODEL_NAME = "gemini-2.5-flash"
