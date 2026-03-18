@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# 输入输出数据（你的核心数据）
+resume_input/
+resume_output/
+
+# 环境文件
+.env
+venv/
